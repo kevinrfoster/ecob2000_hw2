@@ -1,15 +1,15 @@
 Homework \#2
 ================
 
-### Due 8am EST Friday Sept 24, 2021
+### Due 8am EST Friday Sept 9, 2022
 
 ### Econ B2000, MA Econometrics
 
 ### Kevin R Foster, the Colin Powell School at the City College of New York, CUNY
 
-### Fall 2021
+### Fall 2022
 
-## Remember, there is Stats Diagnostic Test on Hawkes due by midnight Friday Sept 24.
+## Remember, there is Stats Diagnostic Test on Hawkes due before midnight Friday Sept 23.
 
 *Each student should submit a separate assignment, even if it is an
 identical computer file to the rest of your study group. When submitting
