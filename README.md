@@ -18,6 +18,6 @@ of the filename. Please write the names of your study group members at
 the beginning of your homework.*
 
 1.  What are the names of the people in your study group?
-2.  Write up the results of your Lab 2 work. I don’t want all of your
+2.  Write up the results of your Lab 1 work. I don’t want all of your
     output, please pick the interesting bits (and start thinking about
     what makes a result interesting?).
